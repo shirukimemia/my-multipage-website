@@ -1,5 +1,5 @@
 // Image slider
-const images = ["images/slide1.jpg", "images/slide2.jpg", "images/slide3.jpg"];
+const images = ["images/slide1.jpeg", "images/slide2.jpeg", "images/slide3.jpeg"];
 let index = 0;
 
 function changeSlide() {
